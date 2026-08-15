@@ -1,0 +1,15 @@
+{
+  "name": "coinmarketcap0-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "grammy": "^1.25.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
